@@ -24,3 +24,4 @@
 --If you change your model battery, you can leave your taranis powered on, move switch back to neutral position (GV1->0) and then to the desired power level, the change will trigger the script to reprogram your vtx / start transmission again.
 
 --Without any warranty!!!! Hope this helps. Thank to the developers of betaflight-tx-lua-scripts for providing the necessary code to accomplish this task!
+thanks
