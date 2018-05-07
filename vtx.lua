@@ -14,7 +14,7 @@
 --Enter your desired band: 1="A", 2="B", 3="E", 4="F", 5="R" (unify pro!)
 --Enter your desired channel: 1,2,3…
 --Select “global variable 1” (GV1, or another free global variable) as input for TxPower
---Now configure any switch to adjust GV1 to the desired power level: 0=pit mode, 1=25mW, 2=200mW … (use special functions menu, select ‘adjust GV1’ as action, enter desired value). Use e.g. 0 for your switch neutral position, 1 for switch up, 2 for switch down, if you would like to select 25mw or 200mw based on switch position.
+--Now configure any switch to adjust GV1 to the desired power level: 0=pit mode, 1=25mW, 2=200mW, 3=500mW, 4=800mW … (use special functions menu, select ‘adjust GV1’ as action, enter desired value). Use e.g. 0 for your switch neutral position, 1 for switch up, 2 for switch down, if you would like to select 25mw or 200mw based on switch position.
 --Now you can:
 --Configure vtx in betaflight once to OPmodel “race” >> vtx starts in pit mode.
 --Power up your model and your taranis, put swich in neutral position, vtx is in pit mode.
