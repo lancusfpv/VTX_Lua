@@ -1,4 +1,5 @@
 # VTX_Lua
+<<<<<<< HEAD
 
 
 
@@ -25,3 +26,5 @@
 
 --Without any warranty!!!! Hope this helps. Thank to the developers of betaflight-tx-lua-scripts for providing the necessary code to accomplish this task!
 thanks
+=======
+>>>>>>> parent of c5fc386... Update README.md
